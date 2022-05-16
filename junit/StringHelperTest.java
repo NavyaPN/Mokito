@@ -14,6 +14,7 @@ public class StringHelperTest {
 	@Before
 	public void before(){
 		helper = new StringHelper();
+		helper1 = new StringHelper();
 	}
 	
 
